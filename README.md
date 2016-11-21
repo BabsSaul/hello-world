@@ -1,2 +1,3 @@
 # hello-world
-Testing and playing
+Testing & playing
+But enough of that - time to pull and see...
